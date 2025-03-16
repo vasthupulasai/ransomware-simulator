@@ -32,28 +32,14 @@ This project is a ransomware simulator designed to **encrypt test files** and di
 
 ## 💻 How to Run  
 ### 1. **Clone the repository:**  
-```bash
 git clone https://github.com/vasthupulasai/ransomware-simulator.git
-
-### 2.**Navigate to the project folder:**
-bash
-Copy
-Edit
+### 2. **Navigate to the project folder:**
 cd ransomware-simulator
-### 3.**Install dependencies:**
-bash
-Copy
-Edit
+### 3. **Install dependencies:**
 pip install cryptography
-### 4.**Run the encryption script:**
-bash
-Copy
-Edit
+### 4. **Run the encryption script:**
 python3 scripts/main.py
-### 5.**To decrypt files:**
-bash
-Copy
-Edit
+### 5. **To decrypt files:**
 python3 scripts/decrypter.py
 ### **🛡️ Disclaimer**
 ⚠️ This project is for educational purposes only.
