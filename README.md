@@ -35,40 +35,40 @@ This project is a ransomware simulator designed to **encrypt test files** and di
 ```bash
 git clone https://github.com/vasthupulasai/ransomware-simulator.git
 
-###2. Navigate to the project folder:
+### 2.**Navigate to the project folder:**
 bash
 Copy
 Edit
 cd ransomware-simulator
-###3. Install dependencies:
+### 3.**Install dependencies:**
 bash
 Copy
 Edit
 pip install cryptography
-###4. Run the encryption script:
+### 4.**Run the encryption script:**
 bash
 Copy
 Edit
 python3 scripts/main.py
-###5. To decrypt files:
+### 5.**To decrypt files:**
 bash
 Copy
 Edit
 python3 scripts/decrypter.py
-###🛡️ Disclaimer
+### **🛡️ Disclaimer**
 ⚠️ This project is for educational purposes only.
 ⚠️ Do not use it for illegal or malicious activities.
 
-###🏆 Acknowledgements
+### 🏆**Acknowledgements**
 This project was developed as part of the Cyber Gyan Virtual Internship under the guidance of Kajal Kashyap.
 
-###📃 License
+### 📃**License**
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-###📌 Contributing
+### 📌 **Contributing**
 Feel free to open an issue or submit a pull request if you have any suggestions or improvements.
 
-###🌟 Author
+### 🌟 **Author**
 👤 Purna Sai
 📧 vasthupulapurna@gmail.com  
 
